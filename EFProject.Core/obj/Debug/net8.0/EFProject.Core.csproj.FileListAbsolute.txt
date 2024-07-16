@@ -1,0 +1,14 @@
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\bin\Debug\net8.0\EFProject.Core.deps.json
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\bin\Debug\net8.0\EFProject.Core.runtimeconfig.json
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\bin\Debug\net8.0\EFProject.Core.dll
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\bin\Debug\net8.0\EFProject.Core.pdb
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.sourcelink.json
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.dll
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\refint\EFProject.Core.dll
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.pdb
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\EFProject.Core.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\Task Folder\EFProject\EFProject.Core\obj\Debug\net8.0\ref\EFProject.Core.dll

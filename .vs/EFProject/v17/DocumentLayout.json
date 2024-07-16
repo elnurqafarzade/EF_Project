@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|solutionrelative:efproject.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.business\\services\\implemetations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|solutionrelative:efproject.business\\services\\implemetations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.business\\services\\implemetations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|solutionrelative:efproject.business\\services\\implemetations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.business\\services\\implemetations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|solutionrelative:efproject.business\\services\\implemetations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58F5853-193D-459C-BBA2-62C7DDE950D4}|EFProject.CA\\EFProject.CA.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58F5853-193D-459C-BBA2-62C7DDE950D4}|EFProject.CA\\EFProject.CA.csproj|solutionrelative:efproject.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|solutionrelative:efproject.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CD0A0-10CB-4ECB-BF59-DF4FBFB43356}|EFProject.Core\\EFProject.Core.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CD0A0-10CB-4ECB-BF59-DF4FBFB43356}|EFProject.Core\\EFProject.Core.csproj|solutionrelative:efproject.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46CD0A0-10CB-4ECB-BF59-DF4FBFB43356}|EFProject.Core\\EFProject.Core.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.core\\models\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46CD0A0-10CB-4ECB-BF59-DF4FBFB43356}|EFProject.Core\\EFProject.Core.csproj|solutionrelative:efproject.core\\models\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|c:\\users\\fa507xv\\desktop\\task folder\\efproject\\efproject.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A21AA11-7160-40AC-98D1-4702BF0E62EF}|EFProject.Business\\EFProject.Business.csproj|solutionrelative:efproject.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EFProject.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Core\\Models\\Book.cs",
+              "RelativeToolTip": "EFProject.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:37:47.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanItem.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Core\\Models\\LoanItem.cs",
+              "RelativeDocumentMoniker": "EFProject.Core\\Models\\LoanItem.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Core\\Models\\LoanItem.cs",
+              "RelativeToolTip": "EFProject.Core\\Models\\LoanItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:40:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "RelativeDocumentMoniker": "EFProject.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "RelativeToolTip": "EFProject.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:37:09.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "EFProject.Business\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "EFProject.Business\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:37:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Implemetations\\BorrowerService.cs",
+              "RelativeDocumentMoniker": "EFProject.Business\\Services\\Implemetations\\BorrowerService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Implemetations\\BorrowerService.cs",
+              "RelativeToolTip": "EFProject.Business\\Services\\Implemetations\\BorrowerService.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAGoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:36:51.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Implemetations\\BookService.cs",
+              "RelativeDocumentMoniker": "EFProject.Business\\Services\\Implemetations\\BookService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Implemetations\\BookService.cs",
+              "RelativeToolTip": "EFProject.Business\\Services\\Implemetations\\BookService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:36:45.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Implemetations\\AuthorService.cs",
+              "RelativeDocumentMoniker": "EFProject.Business\\Services\\Implemetations\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Implemetations\\AuthorService.cs",
+              "RelativeToolTip": "EFProject.Business\\Services\\Implemetations\\AuthorService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAD8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:30:40.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "EFProject.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "RelativeToolTip": "EFProject.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:30:21.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.CA\\Program.cs",
+              "RelativeDocumentMoniker": "EFProject.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\Desktop\\Task Folder\\EFProject\\EFProject.CA\\Program.cs",
+              "RelativeToolTip": "EFProject.CA\\Program.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAANQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:29:52.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
